@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6fbc397d.css",
-    "main.js": "/static/js/main.67491b35.js",
-    "static/js/453.8ccd6c5b.chunk.js": "/static/js/453.8ccd6c5b.chunk.js",
-    "index.html": "/index.html",
-    "main.6fbc397d.css.map": "/static/css/main.6fbc397d.css.map",
-    "main.67491b35.js.map": "/static/js/main.67491b35.js.map",
-    "453.8ccd6c5b.chunk.js.map": "/static/js/453.8ccd6c5b.chunk.js.map"
+    "main.css": "/SnapCanva/static/css/main.6fbc397d.css",
+    "main.js": "/SnapCanva/static/js/main.57ff0c6e.js",
+    "static/js/453.8ccd6c5b.chunk.js": "/SnapCanva/static/js/453.8ccd6c5b.chunk.js",
+    "index.html": "/SnapCanva/index.html",
+    "main.6fbc397d.css.map": "/SnapCanva/static/css/main.6fbc397d.css.map",
+    "main.57ff0c6e.js.map": "/SnapCanva/static/js/main.57ff0c6e.js.map",
+    "453.8ccd6c5b.chunk.js.map": "/SnapCanva/static/js/453.8ccd6c5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fbc397d.css",
-    "static/js/main.67491b35.js"
+    "static/js/main.57ff0c6e.js"
   ]
 }
